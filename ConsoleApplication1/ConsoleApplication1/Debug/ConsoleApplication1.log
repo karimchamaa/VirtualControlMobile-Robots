@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  skeleton.cpp
+c:\users\karim chamaa\desktop\project 2\kinect\consoleapplication1\consoleapplication1\skeleton.cpp(90): warning C4101: 'depthmax': unreferenced local variable
+c:\users\karim chamaa\desktop\project 2\kinect\consoleapplication1\consoleapplication1\skeleton.cpp(89): warning C4101: 'depthmin': unreferenced local variable
+  main.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\karim chamaa\Desktop\Project 2\Kinect\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\karim chamaa\Desktop\Project 2\Kinect\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
